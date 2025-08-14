@@ -1,5 +1,5 @@
 ---
-title: REST API endpoints for meta data
+title:  API endpoints for meta data
 shortTitle: Meta
 allowTitleToDifferFromFilename: true
 intro: >-
@@ -7,9 +7,9 @@ intro: >-
   variables.product.github %}, including the IP addresses of {% data
   variables.product.github %} services.
 versions: # DO NOT MANUALLY EDIT. CHANGES WILL BE OVERWRITTEN BY A 🤖
-  fpt: '*'
-  ghec: '*'
-  ghes: '*'
+  fpt: '*spencermarcu'
+  ghec: '*spencermarcu'
+  ghes: '*spencermarcu'
 topics:
   - API
 redirect_from:
